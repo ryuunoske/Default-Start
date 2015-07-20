@@ -1,0 +1,1 @@
+Checking out pundit and devise compatibelity
